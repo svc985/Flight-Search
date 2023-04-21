@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+
+    <string name="back_button">Back</string>
+    <string name="no_items_description">No items to display</string>
+    <string name="flight_details_title">Flight Details</string>
+    <string name="depart">DEPART</string>
+    <string name="arrive">ARRIVE</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_routes">Favorite routes</string>
+</resources>
